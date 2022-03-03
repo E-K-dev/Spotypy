@@ -1,5 +1,7 @@
-# Spotypy
-Un programa en python , hecho para descargar playlists de spotify.
+# Spotypy v 1.0
+
+****Un programa en python , hecho para descargar playlists de spotify.****
+
 # Compatible en linux , windows , mac , termux , userland.
 
 > Para instalar los requirimientos se debe ejecutar #
