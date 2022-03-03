@@ -8,7 +8,7 @@
 
 ****pip install -r install.pf****
 
-****Y en windows se debe instalar ffmpeg , aca te dejo mi instador personalizado.****
+****Y en windows se debe instalar ffmpeg , aca te dejo mi instalador personalizado.****
 
 > ****Gdrive >>  https://drive.google.com/drive/folders/1e-qe-PKtace42mz_vpE1LbnjN3aTbkRA?usp=sharing****
 
