@@ -4,6 +4,6 @@
 
 # Compatible en linux , windows , mac , termux , userland.
 
-> Para instalar los requirimientos se debe ejecutar #
+> ****Para instalar los requirimientos se debe ejecutar #****
 
-> pip install -r install.pf
+> ****pip install -r install.pf****
