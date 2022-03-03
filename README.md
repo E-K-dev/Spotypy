@@ -2,7 +2,7 @@
 
 ****Un programa en python , hecho para descargar playlists de spotify.****
 
-# Compatible en linux , windows , mac , termux , userland.
+# Compatible en linux , windows , mac , termux (android) , userland (android).
 
 > ****Para instalar los requirimientos se debe ejecutar #****
 
