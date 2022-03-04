@@ -7,8 +7,6 @@
 * Linux.
 * Windows.
 * Mac.
-* Termux (android).
-* Userland (android).
 
 > ****Para instalar los requirimientos se debe ejecutar #****
 
