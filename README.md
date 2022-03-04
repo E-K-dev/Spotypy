@@ -18,6 +18,4 @@
 
 > ****Gdrive >>  https://drive.google.com/drive/folders/1e-qe-PKtace42mz_vpE1LbnjN3aTbkRA?usp=sharing****
 
-> ****La password del .exe es #****
-
-> ****spotypy****
+> ****La password del .exe es : spotypy****
