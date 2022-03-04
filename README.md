@@ -2,7 +2,7 @@
 
 ****Un programa en python , hecho para descargar playlists de spotify.****
 
-# Compatible en :
+# 100% {Compatible en };
 
 * Linux.
 * Windows.
