@@ -1,4 +1,4 @@
-# Spotypy v 1.0
+# Spotypy v 1.0 [Stable]
 
 ****Un programa en python , hecho para descargar playlists de spotify.****
 
