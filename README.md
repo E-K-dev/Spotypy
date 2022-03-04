@@ -4,11 +4,11 @@
 
 # Compatible en :
 
-* linux
-* windows
-* mac
-* termux (android)
-* userland (android).
+* Linux.
+* Windows.
+* Mac.
+* Termux (android).
+* Userland (android).
 
 > ****Para instalar los requirimientos se debe ejecutar #****
 
